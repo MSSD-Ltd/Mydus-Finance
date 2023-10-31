@@ -1,4 +1,4 @@
-# Mydus-Finance
+# Mydus Finance - Budget Planner Open Source
 Welcome to the Github repository for our Mydus Finance Budget Planner - Here we're deep at work getting new innovative solutions to you for managing your finances.
 
 We currently don't have any respositories we've made public to share with you, but in due course we'll make some of our algorithms open source to help the entire community excel in financial budget planning.
