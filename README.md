@@ -7,4 +7,10 @@ You can find our website at: https://mydusfinance.com
 
 And if you're interested in downloading our mobile app there are links to it on our website.
 
+We have some finance calculators on our site too.
+
+Our rent affordability calculator:
+This calculator helps an individual understand how much rent they can afford based on their gross income (salary)
+  - https://mydusfinance.com/rent-affordability-calculator
+
 We hope to see you in our app!
